@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Models cache (large files)
+.cache/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
